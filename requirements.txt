@@ -1,4 +1,0 @@
-Flask
-google-generativeai
-python-dotenv # Se ainda for usar, embora o Colab Secrets seja melhor
-gunicorn
